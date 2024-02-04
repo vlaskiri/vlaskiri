@@ -48,8 +48,6 @@
 ## 📰 Social links
  - [LinkedIn](https://www.linkedin.com/in/vlaskiri/)
  - [Telegram](https://t.me/vlaskiri)
- - [X (Twitter)](https://twitter.com/vlaskiril)
- - [Instagram](https://www.instagram.com/vlaskiri/)
 
 <br>
 
